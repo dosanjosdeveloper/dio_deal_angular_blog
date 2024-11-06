@@ -16,7 +16,16 @@
     margin-top: 15px;
 }
 
-.big-card_description > p{
+.big-card_description{
+    margin-top: 20px;
+}
+
+.big-card_description > p > a{
     color: gray;
-    margin-top: 10px;
+}
+
+
+.big-card_photo > img{
+    width: 100%;
+    min-height: 400px;
 }
